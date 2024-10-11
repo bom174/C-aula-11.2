@@ -1,0 +1,17 @@
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\aula 11.csproj.AssemblyReference.cache
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\aula_11.Form1.resources
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\aula 11.csproj.GenerateResource.cache
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\aula 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\aula 11.AssemblyInfoInputs.cache
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\aula 11.AssemblyInfo.cs
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\aula 11.csproj.CoreCompileInputs.cache
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\bin\Debug\net6.0-windows\aula 11.exe
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\bin\Debug\net6.0-windows\aula 11.deps.json
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\bin\Debug\net6.0-windows\aula 11.runtimeconfig.json
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\bin\Debug\net6.0-windows\aula 11.dll
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\bin\Debug\net6.0-windows\aula 11.pdb
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\aula 11.dll
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\refint\aula 11.dll
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\aula 11.pdb
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\aula 11.genruntimeconfig.cache
+C:\Users\JOAOPEDROGUIDOLINSPI\source\repos\aula 11\aula 11\obj\Debug\net6.0-windows\ref\aula 11.dll
